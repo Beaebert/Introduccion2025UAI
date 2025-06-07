@@ -11,4 +11,4 @@
 <h3>Este Código:</h3>
 Este es un proyecto explicativo realizado por el profesor durante las clases del curso brindado por la Universidad Abierta Interamericana.
 
-Mi proyecto entregado en este curso: (Aún en producción)
+Mi proyecto entregado en este curso: https://github.com/Beaebert/control.stock/tree/main(Aún en producción)
